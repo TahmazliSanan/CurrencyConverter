@@ -1,8 +1,21 @@
-# React + Vite
+<div>
+  <h1>Currency Converter</h1>
+</div>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<div>
+  <p>
+    I created Currency Converter web app using React JS. This is my first React JS project. I want to improve my knowledge and skills for Frontend Development. And I think that React JS is the best option for this decision. This project is initial step of road which I started. I used data created by <a href="https://freecurrencyapi.com/">freecurrencyapi.com</a> in API part of my project.
+  </p>
+</div>
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<div>
+  <h1>
+    Technologies I used
+  </h1>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>React JS</li>
+    <li>Axios</li>
+  </ul>
+</div>
